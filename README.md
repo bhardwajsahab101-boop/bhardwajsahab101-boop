@@ -49,34 +49,32 @@ I believe in **learning by building**, writing **maintainable code**, and contin
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhardwajsahab101-boop&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=bhardwajsahab101-boop&show_icons=true&theme=dark&hide_border=false" />
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=bhardwajsahab101-boop&theme=dark&hide_border=false)
+<img src="https://streak-stats.demolab.com?user=bhardwajsahab101-boop&theme=dark&hide_border=false" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhardwajsahab101-boop&theme=dark&hide_border=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhardwajsahab101-boop&layout=compact&theme=dark&hide_border=false" />
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=bhardwajsahab101-boop&theme=radical&no-frame=false&margin-w=6)
+<img src="https://github-profile-trophy.vercel.app/?username=bhardwajsahab101-boop&theme=radical&margin-w=8" />
 
 ---
 
 ## 🔝 Top Contributed Repositories
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=bhardwajsahab101-boop&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=bhardwajsahab101-boop&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 
 ---
 
 ## 👀 Profile Views
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=bhardwajsahab101-boop&icon=0&color=0)
+<img src="https://visitcount.itsvg.in/api?id=bhardwajsahab101-boop&icon=0&color=0" />
 
----
 
 ### ⭐ Fun Fact
 > *Consistency beats talent when talent doesn’t stay consistent.*
