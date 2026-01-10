@@ -1,100 +1,76 @@
-<h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">Frontend Developer in Progress 🚀</h3>
+# 💫 About Me:
 
-<p align="center">
-  🎓 College Student at <b>SGT University</b> <br>
-  💻 Learning <b>React.js</b> & building real-world projects
-</p>
+👋 Hi, I’m Ayush  
 
----
+🎓 College Student at SGT University  
+💻 Frontend Developer in Progress  
 
-## 💫 About Me
-
-I’m a passionate frontend learner focused on creating clean, responsive, and user-friendly web applications.  
-I enjoy breaking down complex problems, improving code quality, and learning modern web technologies.
-
-- 🌱 Currently learning **React.js**
-- 🧠 Strengthening **JavaScript fundamentals**
-- 🛠️ Writing **clean & maintainable code**
-- 🚀 Exploring real-world frontend projects
+I’m currently focused on learning React.js and building real-world projects to strengthen my frontend skills. I enjoy exploring how modern web applications are structured and how clean, reusable components are designed.
 
 ---
 
-## 🌐 Connect With Me
+## 🛠️ Technologies I Work With
 
-<p align="center">
-  <a href="https://instagram.com/Ayush_bhardwaj_101">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ayush-sharma-a36b24380/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:bhardwajsahab101@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
-  </a>
-</p>
+- **Python** – problem-solving, logic building, and scripting  
+- **JavaScript** – core web development and DOM manipulation  
+- **React.js (currently learning)** – component-based UI development  
+
+---
+
+## 🚀 What I’m Doing Right Now
+
+- Deepening my understanding of React fundamentals  
+- Practicing JavaScript concepts through hands-on coding  
+- Working toward writing cleaner, more maintainable code  
+
+---
+
+## 🌐 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ayush_bhardwaj_101)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-sharma-a36b24380/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhardwajsahab101@gmail.com)
 
 ---
 
 ## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-</p>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhardwajsahab101-boop&show_icons=true&theme=dark&hide_border=false"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=bhardwajsahab101-boop&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bhardwajsahab101-boop&theme=dark&hide_border=false"/>
-</p>
+![](https://streak-stats.demolab.com?user=bhardwajsahab101-boop&theme=dark&hide_border=false)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhardwajsahab101-boop&layout=compact&theme=dark&hide_border=false"/>
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhardwajsahab101-boop&theme=dark&hide_border=false&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhardwajsahab101-boop&theme=radical&margin-w=10"/>
-</p>
+![](https://github-profile-trophy.vercel.app/?username=bhardwajsahab101-boop&theme=radical&margin-w=4)
 
 ---
 
-## 🔝 Top Contributed Repositories
+## 🔝 Top Contributed Repo
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=bhardwajsahab101-boop&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
+![](https://github-contributor-stats.vercel.app/api?username=bhardwajsahab101-boop&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
 ## 👀 Profile Views
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=bhardwajsahab101-boop&icon=0&color=0"/>
-</p>
+![](https://visitcount.itsvg.in/api?id=bhardwajsahab101-boop&icon=0&color=0)
 
 ---
 
-## ⭐ Fun Fact
-
-> *Consistency beats talent when talent doesn’t stay consistent.*
-
----
-
-<p align="center">
-  🚀 Always learning • Always building • Always improving
-</p>
+### ⭐ Fun Fact
+*Consistency beats talent when talent doesn’t stay consistent.*
